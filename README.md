@@ -1,6 +1,6 @@
 # Automation
 
-Above are some API test samples that I tested in my experience.
+Above are some API test samples that I wrote in my experience.
 
 -----------------
 
