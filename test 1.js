@@ -23,7 +23,7 @@ describe('evomag.ro',() => {
         await expect(browser).toHaveTitle('Noutati - evoMAG.ro');
         await browser.pause(1000);
 
-    });
+    }); 
 
     it ('should have a working search', async () => {
         const searchBox = await $('//*[@id="searchString"]');
