@@ -8,10 +8,10 @@ Above are some automation test samples that I wrote and tested from my experienc
 
 Includes the following tests for https://www.evomag.ro/ website:
 
-1. 'should have the correct page title'
-2. 'should contain a cart button'
+1. 'Should have the correct page title'
+2. 'Should contain a cart button'
 3. 'Should open EvoMag Noutati page'
-4. 'should have a working search'
+4. 'Should have a working search'
 
 -----------------
 
@@ -19,9 +19,9 @@ Includes the following tests for https://www.evomag.ro/ website:
 
 Includes the following tests for https://www.pcgarage.ro/ website:
 
-1. 'should have the logo on the main page'
-2. 'should open pcgarage gaming section'
-3. 'should search for a product'
+1. 'Should have the logo on the main page'
+2. 'Should open pcgarage gaming section'
+3. 'Should search for a product'
 
 -----------------
 
@@ -29,15 +29,15 @@ Includes the following tests for https://www.pcgarage.ro/ website:
 
 Includes the following tests for https://www.libris.ro/ website:
 
-1. 'should have a login menu open'
-2. 'should login on libris.ro'
-3. 'should log out on libris.ro'
-4. 'should login on libris.ro with wrong username'
-5. 'should login on libris.ro with wrong password'
-6. 'should login again on libris.ro'
-7. 'should find a product with searchbox'
-8. 'should add a product to favorites'
-9. 'take a Screenshot'
+1. 'Should have a login menu open'
+2. 'Should login on libris.ro'
+3. 'Should log out on libris.ro'
+4. 'Should login on libris.ro with wrong username'
+5. 'Should login on libris.ro with wrong password'
+6. 'Should login again on libris.ro'
+7. 'Should find a product with searchbox'
+8. 'Should add a product to favorites'
+9. 'Take a Screenshot'
 
 -----------------
 
