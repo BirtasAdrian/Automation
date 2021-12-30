@@ -26,4 +26,4 @@ describe('pcgarage.ro',() => {
     await browser.pause(1000);
 });
 
-}); 
+});  
