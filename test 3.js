@@ -7,7 +7,7 @@ describe('libris.ro',() => {
         await menuButton.click();
         await browser.pause(1000);
         await expect(browser).toHaveUrl('https://www.libris.ro/auth/login.jsp');
-        await browser.pause(1000);
+        await browser.pause(1000); 
 
     });
 
