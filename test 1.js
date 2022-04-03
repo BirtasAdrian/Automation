@@ -1,4 +1,4 @@
-describe('evomag.ro',() => { 
+describe('evomag.ro',() => {  
 
     it('should have the correct page title', async () => {
         await browser.url('https://www.evomag.ro/');
