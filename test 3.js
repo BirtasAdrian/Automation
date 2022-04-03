@@ -1,4 +1,4 @@
-describe('libris.ro',() => { 
+describe('libris.ro',() => {  
 
     it('should have a login menu open ', async () => {
         await browser.url('https://www.libris.ro/');
