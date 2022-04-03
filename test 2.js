@@ -1,4 +1,4 @@
-describe('pcgarage.ro',() => { 
+describe('pcgarage.ro',() => {  
 
     it('should have the logo on the main page', async () => {
         await browser.url('https://www.pcgarage.ro/');
